@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> Mathura</title>
+<center>
+
+<body style="background-color:midnightblue;">
+<h1 style="color:pink">City of Lord Krishna -MATHURA</h1>
+<p style="color:white">Mathura  is a city in the Indian state of Uttar Pradesh.
+It is located approximately 55 kilometres (34 mi) north of Agra, and 145 kilometres (90 mi) south-east of Delhi</p>
+<p  style="color:white">About 11 kilometres (6.8 mi) from the town of Vrindavan, and 22 kilometres (14 mi) from Govardhan. 
+It is the administrative centre of Mathura district of Uttar Pradesh. </p>
+<p  style="color:white">In ancient times, Mathura was an economic hub, located at the junction of important caravan routes. </p>
+<p  style="color:white">The 2011 Census of India estimated the population of Mathura at 441,894.</p>
+<img src="MATHURA12.jpg"  align="right" width="400" height="300">
+<p  style="color:white">In Hinduism, Mathura is believed to be the birthplace of Krishna, which is located at the Krishna Janmasthan Temple Complex. It is one of the Sapta Puri, the seven cities considered holy by Hindus. </p>
+<p  style="color:white">The Kesava Deo Temple was built in ancient times on the site of Krishna's birthplace (an underground prison). Mathura was the capital of the kingdom of Surasena, ruled by Kansa, the maternal uncle of Krishna. Janmashtami is grandly celebrated in Mathura every year.</p>
+<h1 style="color:orange">Religious heritage</h1>
+<p style="color:peru">Mathura is a holy city for Hinduism and is considered the heart of Brij Bhoomi, the land of Krishna. The twin-city to Mathura is Vrindavan.</p>
+<p style="color:peru">Krishna Janmasthan Temple Complex is an important group of temples built around what is considered to be the birthplace of Krishna. The temple complex contains Keshav Deva temple, Garbha Griha shrine, Bhagavata Bhavan and the Rangabhoomi where the final battle between Krishna and Kamsa took place.</p>
+<A HREF="pages/2.html">About this site</A>
+</body>
+</head>
+</html>
